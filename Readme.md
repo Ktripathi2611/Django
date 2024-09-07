@@ -1,3 +1,7 @@
+to run the code 
+env\Scripts\activate
+python manage.py runserver
+
 Setting up Django in Visual Studio Code (VS Code) involves a few steps. Here's a concise guide to help you get started:
 
 1. **Install Visual Studio Code**:
