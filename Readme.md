@@ -143,9 +143,9 @@ python manage.py createsuperuser
 ```
 When prompted, enter the following details:
 ```sh
-Username: kushal
-Email: tripathikushal522@gmail.com
-Password: 9833802254
+Username: K1
+Email: 
+Password: 
 ```
 Follow the prompts to enter your username, email, and password.
 
